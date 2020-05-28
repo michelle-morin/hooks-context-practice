@@ -1,10 +1,10 @@
-# Counter Application
+# Counter/Contacts Application
 
 #### By: Michelle Morin, May 28, 2020
 
 ## Description
 
-A simple counter application built using the Context API and React hooks.
+A simple counter and contact book application built using the Context API and React hooks.
 
 ## Setup/Installation Requirements
 
